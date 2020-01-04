@@ -1,14 +1,14 @@
 {
-  "name": "Miniblog.Core",
-  "short_name": "Miniblog.Core",
-  "description": "A short description of the blog.",
+  "name": "Blog.Etherpunk",
+  "short_name": "Blog.Etherpunk",
+  "description": "My personal blog.",
   "icons": [
     {
-      "src": "/img/icon192x192.png",
+      "src": "http://www.etherpunk.com/image/monkey.png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/icon512x512.png",
+      "src": "http://www.etherpunk.com/image/monkey.png",
       "sizes": "512x512"
     }
   ],
